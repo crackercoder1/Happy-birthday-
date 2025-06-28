@@ -1,0 +1,44 @@
+ml lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday Engr David</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to right, #0f0f0f, #1a1a1a);
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+        img {
+            width: 300px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #00ffd5;
+        }
+        h2 {
+            font-weight: normal;
+            color: #dddddd;
+        }
+        .birthday-box {
+            border: 2px solid #00ffd5;
+            padding: 20px;
+            border-radius: 20px;
+            display: inline-block;
+            background-color: #222;
+        }
+    </style>
+</head>
+<body>
+    <div class="birthday-box">
+        <h1>🎉 Happy Birthday Engr David 🎉</h1>
+        <h2>Wishing you success, joy, and endless blessings!</h2>
+        <img src="file-VQ2SgWjsf7XZud4ntQwqgC" alt="Engr David Birthday">
+        <p>From all of us who appreciate your brilliance and impact. Keep shining! 🌟</p>
+    </div>
+</body>
+</html>
